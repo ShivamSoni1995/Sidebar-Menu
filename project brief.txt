@@ -1,0 +1,12 @@
+html:
+1. Created a container element body and a child element sidebar. the sidebar element will change state upon hover
+2. Created a div.logo and ul element inside sidebar.
+3. Under div.logo added logo image and text
+4. under ul element created 12 li elements
+5. under li elements created a span element for icon and an attribute tag
+
+css: 
+1. body height: 100vh, width: 100%. added bg image with position centre and size cover
+2. sidebar: position fixed, top and left-0, height-100%, width: 100px, display-flex, flex-direction: columns. with the flex elements .logo and .links
+3. .logo: display-flex with flex elements logo img and text
+4. .links li: display-flex
